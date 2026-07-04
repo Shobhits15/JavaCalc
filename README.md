@@ -26,8 +26,8 @@ A simple desktop calculator built with **Java Swing**, supporting basic arithmet
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Shobhits15/JavaCalc
+cd JavaCalc
 ```
 
 ### Compile and run
