@@ -62,4 +62,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 Shobhit..
-made with ☕ and Java Swing.
+Made with ☕ and Java Swing.
